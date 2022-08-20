@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="ythumb.jpeg" alt="ReynaBOT">
+<img src="https://raw.githubusercontent.com/avianz37/reyna-bot/master/media/thumb.jpeg" alt="ReynaBOT">
 
 # 🌱 〣 ReynaBOT [MD]
 > WhatsApp BOT Multi Mevice
